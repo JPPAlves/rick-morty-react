@@ -67,7 +67,7 @@
     .Main-container img{
         width: 90%;
     }
-
+   /*Testando nos outros Aparelhos*/
     @media (max-width: 768px){
         .Main-container{
             flex-direction: column-reverse;
@@ -103,17 +103,14 @@
     
         .Main-container img{
             width: 595px;
-            padding: 20px 0 0 0;
+            padding:  0;
         }
         
     }
 
     @media (max-width: 428px){
         .Main-container{
-            flex-direction: column-reverse;
-            justify-content: center;
-            align-content: center;
-            width: 328px;
+            width: 305px;
         }
         .main-data-container{
             width: 380px;

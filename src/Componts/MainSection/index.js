@@ -7,8 +7,11 @@ function MainSection() {
             <div className="main-data-container">
 
                 <h1>Rick And Morty</h1>
-                <p>O brilhante cientista beberrão Rick sequestra Morty, seu neto aborrescente,
-                    para viver loucuras em outros mundos e dimensões alternativas. </p>
+                <p>O brilhante cientista beberrão Rick
+                    sequestra Morty,seu neto
+                    aborrescente, para viver loucuras
+                    em outros mundos e dimensões
+                    alternativas.</p>
                 <button type="submit"> Veja mais </button>
             </div>
             <img
