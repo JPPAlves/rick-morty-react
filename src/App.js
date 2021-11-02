@@ -1,12 +1,11 @@
 import './App.css';
-import HeaderResponsive from './Componts/HeaderResponsive';
-import MainSection from './Componts/MainSection';
+import Routes from './Routes';
 
 function App() {
+
   return (
     <div className="App">
-      <HeaderResponsive />
-      <MainSection />
+    
     </div>
   );
 }
